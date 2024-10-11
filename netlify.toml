@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
-  to = ":splat"
+  to = "https://gitlab.com/:splat"
   status = 200
   force = true
